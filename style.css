@@ -519,10 +519,4 @@ button:focus {
             width: 80%;
             margin: 10%;
         }
-    #body_header{
-            height: 50vh;
-        }
-        #my-image{
-            margin-top: -14vh;
-        }
 }
