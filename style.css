@@ -3,7 +3,7 @@ body{
 }
 
 #body_header{
-    height: 330px;
+    height: 64vh;
     opacity: 0.8;
     background-image: url(image/header_background.jpg);
     background-size: cover;
@@ -518,5 +518,11 @@ button:focus {
         #contact-form-container {
             width: 80%;
             margin: 10%;
+        }
+    #body_header{
+            height: 58vh;
+        }
+        #my-image{
+            margin-top: -14vh;
         }
 }
