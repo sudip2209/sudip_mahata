@@ -455,7 +455,14 @@ textarea:focus,
 button:focus {
     outline: none;
 }   
-
+.gml{
+    color: #d9dcdd;
+    text-decoration: none;
+}
+.gml:hover{
+    color: white;
+    text-decoration: none;
+}
 
 
 
